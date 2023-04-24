@@ -25,6 +25,25 @@ All files are Jupyter Notebooks.
 
 ## Class 4
 
-- 
+- Bisection algorithm
+- Approximations
+
+## Class 5
+
+- Memoisation / Caching
+
+## Class 7
+
+- The Tower of Hanoi
+
+## Class 8
+
+- Numpy
+- Matplotlib
+- Monte Carlo Methods
+
+## Class 9 - 12
+- Exercises 
+- Exam preparation
 
 
