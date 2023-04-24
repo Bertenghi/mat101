@@ -8,4 +8,23 @@ All files are Jupyter Notebooks.
 
 ## Class 1
 
+- Basic mathematical operations
+- Boolean algebra
+- Primality of numbers and optimisation
+- Flow control
+- Loops
+
+## Class 2
+
+- Functions
+- Recursive functions
+
+## Class 3
+
+- Debugging
+
+## Class 4
+
+- 
+
 
